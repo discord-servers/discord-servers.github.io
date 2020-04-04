@@ -1,3 +1,5 @@
+*Discord server list.*
+
 ## Common servers
 
 #### IT
