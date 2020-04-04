@@ -22,6 +22,8 @@
 #### CMS / CMF
 
 - [Drupal](https://discord.me/drupal) `fzBMzcP` *in development*
+- [Flarum](https://discord.me/flarum) `epJ5xfm` *in development*
+- [Joomla](https://discord.me/joomla) `DSs2Hcy` *in development*
 - [MediaWiki](https://discord.me/mediawiki) `8MK4EqQ` *in development*
 - [WordPress](https://discord.me/wordpress) `Hbn7Qss` *in development*
 - [XenForo](https://discord.me/xenforo) `dB7fbpz` *in development*
