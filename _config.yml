@@ -7,6 +7,10 @@ author:
   github: "KitsuneSolar"
   twitter: "KitsuneSolar"
 
+webmaster_verifications:
+  google: "Mda9LzZFJEJf8-frX8vZiE1kw25IX2IhRl2O_1paAXY"
+  yandex: ""
+
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
