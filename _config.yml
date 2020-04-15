@@ -1,12 +1,12 @@
 title: "Discord Servers"
 description: ""
 
-plugins:
-  - jekyll-seo-tag
-  - jekyll-sitemap
-
 author:
   name: "Kitsune Solar"
   email: "kitsune.solar@gmail.com"
   github: "KitsuneSolar"
   twitter: "KitsuneSolar"
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
