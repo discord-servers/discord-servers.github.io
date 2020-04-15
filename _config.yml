@@ -9,7 +9,7 @@ author:
 
 webmaster_verifications:
   google: "Mda9LzZFJEJf8-frX8vZiE1kw25IX2IhRl2O_1paAXY"
-  yandex: ""
+  yandex: "746d37a02c38a253"
 
 plugins:
   - jekyll-seo-tag
