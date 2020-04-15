@@ -4,8 +4,8 @@
 
 #### IT
 
-- [Linux](https://discord.me/linux) `6gTQdNS` *in development*
 - [UNIX](https://discord.me/unix) `VqEkFKR` *in development*
+- [Linux](https://discord.me/linux) `6gTQdNS` *in development*
 
 #### Social
 
@@ -18,6 +18,12 @@
 - [CentOS](https://discord.me/centos) `ZD9y4xh` *in development*
 - [Debian](https://discord.me/debian) `tRqnhtu` *in development*
 - [Fedora](https://discord.me/fedora) `CZXrcfx` *in development*
+
+#### BSD
+
+- [FreeBSD](https://discord.me/freebsd) `tzE6n9j` *in development*
+- [OpenBSD](https://discord.me/openbsd) `ZUHCsux` *in development*
+- [NetBSD](https://discord.me/netbsd) `jSvQ4fc` *in development*
 
 #### CMS / CMF
 
